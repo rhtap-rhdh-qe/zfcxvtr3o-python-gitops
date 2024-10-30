@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zfcxvtr3o-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zfcxvtr3o-python
